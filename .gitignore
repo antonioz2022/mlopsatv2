@@ -26,8 +26,6 @@ env/
 # ==========================
 # Jupyter / Colab
 # ==========================
-.ipynb_checkpoints/
-*.ipynb
 
 # ==========================
 # Arquivos de sistema
